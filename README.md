@@ -2,13 +2,14 @@
 
 LLM es una asignatura en la que veremos los diferentes tipos de lenguajes de marcas integrados en las paginas web.
 
-**HTML**
+1. **HTML**
 
-**CSS**
+1. **CSS**
 
-**XML**
+1. **XML**
 
-**etc...**
+1. **etc...**
 
 Mi readme será más extenso a medida que vaya sabiendo que veremos exactamente ;)
 
+El __README__ es parte de la actividad 1.1
